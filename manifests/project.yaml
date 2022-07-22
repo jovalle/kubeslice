@@ -6,6 +6,6 @@ metadata:
 spec:
  serviceAccount:
    readOnly:
-     - jay-ro
+     - avesha-test-ro
    readWrite:
-     - jay-rw
+     - avesha-test-rw

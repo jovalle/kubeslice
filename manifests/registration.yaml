@@ -9,7 +9,7 @@ spec:
 apiVersion: controller.kubeslice.io/v1alpha1
 kind: Cluster
 metadata:
- name: zanadu
+ name: xanadu
  namespace: kubeslice-avesha
 spec:
  networkInterface: eth0

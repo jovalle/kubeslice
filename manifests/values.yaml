@@ -3,4 +3,4 @@ kubeslice:
    loglevel: info
    rbacResourcePrefix: kubeslice-rbac
    projectnsPrefix: kubeslice
-   endpoint: https://192.168.1.203:6443
+   endpoint: https://192.168.1.201:6443
